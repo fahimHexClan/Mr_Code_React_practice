@@ -7,7 +7,7 @@ import UseContextC from "./UseContext_C";
 
 function UseContextB(){
 
-            const user = useContext(UserContext);// methana eka add karraganna ona
+            const user = useContext(UserContext);// methana eka add karraganna ona .....
     
     return(
         <div className="box">
